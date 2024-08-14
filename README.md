@@ -3,7 +3,7 @@
 
 # Site officielle
 
-![Camera Feed](/camera.png)
+![Camera Feed](camera.png)
 
 
-![Camera Feed](/control.png)
+![Camera Feed](control.png)
